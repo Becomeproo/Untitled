@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpoqaBold" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/spoqahansansneo_bold</item>
+    </style>
+
+    <style name="SpoqaMedium" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/spoqahansansneo_medium</item>
+    </style>
+
+    <style name="SpoqaRegular" parent="Widget.AppCompat.TextView">
+        <item name="fontFamily">@font/spoqahansansneo_regular</item>
+    </style>
+</resources>
